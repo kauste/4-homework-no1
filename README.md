@@ -1,4 +1,4 @@
-#STRUCTURE
+# STRUCTURE
 _homework no1_
 
 This project is for educational purposes only.
