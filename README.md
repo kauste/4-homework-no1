@@ -3,7 +3,7 @@ _homework no1_
 
 This project is for educational purposes only.
 
-Site published at: https://github.com/kauste/
+Site published at: https://github.com/kauste/4-homework-no1
 
 ## Project features
 
