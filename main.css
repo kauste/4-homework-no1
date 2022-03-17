@@ -1,0 +1,23 @@
+.first_of_kin {
+    border: 2px crimson solid; width: 80%; 
+    margin-top:10%; 
+    margin-left: 10%;
+    display: inline-block;
+}
+
+.second_of_kin {
+    border: 2px rgb(71, 80, 82) solid;
+    width: calc(100% - 4px);
+    float: left;
+}
+
+.third_of_kin {
+    border: 2px crimson solid;
+    float: left;
+
+}
+
+.forth_of_kin {
+    border: 2px solid rgb(71, 80, 82); 
+    width: 75%
+}
